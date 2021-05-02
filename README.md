@@ -3,7 +3,7 @@
 THIS CODE IS NOT MY WORK I JUST GOT IT TO WORK WITH EXILE!! 
 
 				Drag Dead Body Script
-						by BangaBob
+				by BangaBob
 
 Unpack your Exile.Mission.pbo
 
