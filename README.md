@@ -1,5 +1,7 @@
 # Working-Drag-Dead-Body-Script-For-Exile
 
+Since running this on my server I have found the biggest issue is it sometimes sends players to debug zone when revived by another player. Use at your own risk its not a perfect system.
+
 THIS CODE IS NOT MY WORK I JUST GOT IT TO WORK WITH EXILE!! 
 
 				Drag Dead Body Script
