@@ -1,9 +1,8 @@
-# Working-Drag-Dead-Body-Script-For-Exile
+THIS CODE IS NOT MY WORK I JUST GOT IT TO WORK WITH EXILE!!
 
-THIS CODE IS NOT MY WORK I JUST GOT IT TO WORK WITH EXILE!! 
+			Drag Dead Body Script
+			by BangaBob
 
-				Drag Dead Body Script
-				by BangaBob
 
 if you already have a custom folder in your mission.map.pbo then copy and paste dragBodies folder found inside the custom folder into your custom folder.
 if you do not have the custom folder than copy and paste the custom folder to your mission.map.pbo.
