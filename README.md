@@ -28,3 +28,4 @@ if these are not set like this the drag functions will not work.
 if you do not have CfgRemoteExec.hpp than you should find this info in description.ext just change accordingly.
 
 This will add drag option to all spawned AI throught the server run and all joining players.
+Bodies also have option to be loaded and unloaded from vehicles.
